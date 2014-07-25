@@ -1,0 +1,2923 @@
+{"questions": [
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_BANNER",
+            "baseQuestionText": "About Your Health:",
+            "baseQuestionType": "HEADING",
+            "position": 0
+        },
+        "disclosures": [],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_2",
+            "baseQuestionText": "In the last 5 years have you suffered from, been diagnosed with or sought medical advice or treatment for High blood pressure or High cholesterol?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 2,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1226270",
+                        "disclosureName": "High blood pressure",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226285",
+                        "disclosureName": "High cholesterol",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226270",
+                    "disclosureName": "High blood pressure",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226285",
+                    "disclosureName": "High cholesterol",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_BANNER_1",
+            "baseQuestionText": "Your Medical History:",
+            "baseQuestionType": "HEADING",
+            "position": 4
+        },
+        "disclosures": [],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_4",
+            "baseQuestionText": "Have you ever suffered from, been diagnosed with or sought medical advice or treatment for any infectious diseases?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 5,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1226046",
+                        "disclosureName": "Genital warts",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226067",
+                        "disclosureName": "Glandular fever",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226217",
+                        "disclosureName": "Hepatitis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226258",
+                        "disclosureName": "Herpes",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226091",
+                        "disclosureName": "Gonorrhoea",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226302",
+                        "disclosureName": "HIV/AIDS",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226782",
+                        "disclosureName": "Malaria",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227733",
+                        "disclosureName": "Ross River Fever",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228122",
+                        "disclosureName": "Syphilis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227247",
+                        "disclosureName": "Other infectious diseases which you have fully recovered from",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227248",
+                        "disclosureName": "Other infectious diseases which you have not recovered from (other than the common cold or flu)",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226046",
+                    "disclosureName": "Genital warts",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226067",
+                    "disclosureName": "Glandular fever",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226217",
+                    "disclosureName": "Hepatitis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226258",
+                    "disclosureName": "Herpes",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226091",
+                    "disclosureName": "Gonorrhoea",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226302",
+                    "disclosureName": "HIV/AIDS",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226782",
+                    "disclosureName": "Malaria",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227733",
+                    "disclosureName": "Ross River Fever",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228122",
+                    "disclosureName": "Syphilis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227247",
+                    "disclosureName": "Other infectious diseases which you have fully recovered from",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227248",
+                    "disclosureName": "Other infectious diseases which you have not recovered from (other than the common cold or flu)",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_5",
+            "baseQuestionText": "Lung or breathing conditions?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 6,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1224890",
+                        "disclosureName": "Asthma",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225148",
+                        "disclosureName": "Bronchitis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225811",
+                        "disclosureName": "Emphysema/COPD",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227431",
+                        "disclosureName": "Pneumonia",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227436",
+                        "disclosureName": "Pneumothorax",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227915",
+                        "disclosureName": "Sleep apnoea",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227251",
+                        "disclosureName": "Other lung or breathing conditions",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224890",
+                    "disclosureName": "Asthma",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225148",
+                    "disclosureName": "Bronchitis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225811",
+                    "disclosureName": "Emphysema/COPD",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227431",
+                    "disclosureName": "Pneumonia",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227436",
+                    "disclosureName": "Pneumothorax",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227915",
+                    "disclosureName": "Sleep apnoea",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227251",
+                    "disclosureName": "Other lung or breathing conditions",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_6",
+            "baseQuestionText": "Bone, muscle, ligament, joint or limb conditions or injuries?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 7,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1224672",
+                        "disclosureName": "Amputation",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1224864",
+                        "disclosureName": "Arthritis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225112",
+                        "disclosureName": "Broken or fractured bones",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228050",
+                        "disclosureName": "Strain or damage to a ligament or muscle",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226533",
+                        "disclosureName": "Joint dislocation",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227183",
+                        "disclosureName": "Osteoporosis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227285",
+                        "disclosureName": "Paralysis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227661",
+                        "disclosureName": "Repetitive strain injury",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228201",
+                        "disclosureName": "Tennis elbow",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225243",
+                        "disclosureName": "Carpal tunnel syndrome",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227237",
+                        "disclosureName": "Other bone, muscle, ligament, joint or limb condition",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224672",
+                    "disclosureName": "Amputation",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224864",
+                    "disclosureName": "Arthritis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225112",
+                    "disclosureName": "Broken or fractured bones",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228050",
+                    "disclosureName": "Strain or damage to a ligament or muscle",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226533",
+                    "disclosureName": "Joint dislocation",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227183",
+                    "disclosureName": "Osteoporosis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227285",
+                    "disclosureName": "Paralysis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227661",
+                    "disclosureName": "Repetitive strain injury",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228201",
+                    "disclosureName": "Tennis elbow",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225243",
+                    "disclosureName": "Carpal tunnel syndrome",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227237",
+                    "disclosureName": "Other bone, muscle, ligament, joint or limb condition",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_7",
+            "baseQuestionText": "Digestive conditions?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 8,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1224991",
+                        "disclosureName": "Barrett\u0027s oesophagus",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225424",
+                        "disclosureName": "Coeliac disease",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225529",
+                        "disclosureName": "Crohn\u0027s disease",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226023",
+                        "disclosureName": "Gallstones",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226142",
+                        "disclosureName": "Haemorrhoids",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226261",
+                        "disclosureName": "Hiatus hernia",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226525",
+                        "disclosureName": "Irritable bowel syndrome",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227273",
+                        "disclosureName": "Pancreatitis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226143",
+                        "disclosureName": "Piles",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227637",
+                        "disclosureName": "Reflux",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228345",
+                        "disclosureName": "Ulcerative colitis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227239",
+                        "disclosureName": "Other digestive or bowel disorders",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224991",
+                    "disclosureName": "Barrett\u0027s oesophagus",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225424",
+                    "disclosureName": "Coeliac disease",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225529",
+                    "disclosureName": "Crohn\u0027s disease",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226023",
+                    "disclosureName": "Gallstones",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226142",
+                    "disclosureName": "Haemorrhoids",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226261",
+                    "disclosureName": "Hiatus hernia",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226525",
+                    "disclosureName": "Irritable bowel syndrome",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227273",
+                    "disclosureName": "Pancreatitis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226143",
+                    "disclosureName": "Piles",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227637",
+                    "disclosureName": "Reflux",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228345",
+                    "disclosureName": "Ulcerative colitis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227239",
+                    "disclosureName": "Other digestive or bowel disorders",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_8",
+            "baseQuestionText": "Brain or nerve conditions?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 9,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1224649",
+                        "disclosureName": "Alzheimer\u0027s disease",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1224707",
+                        "disclosureName": "Aneurysm",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225842",
+                        "disclosureName": "Epilepsy",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226954",
+                        "disclosureName": "Multiple sclerosis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226959",
+                        "disclosureName": "Muscular dystrophy",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227299",
+                        "disclosureName": "Parkinson\u0027s disease",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227853",
+                        "disclosureName": "Seizures",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228058",
+                        "disclosureName": "Stroke",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228265",
+                        "disclosureName": "Transient ischaemic attacks",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227238",
+                        "disclosureName": "Other brain or nerve conditions",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224649",
+                    "disclosureName": "Alzheimer\u0027s disease",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224707",
+                    "disclosureName": "Aneurysm",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225842",
+                    "disclosureName": "Epilepsy",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226954",
+                    "disclosureName": "Multiple sclerosis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226959",
+                    "disclosureName": "Muscular dystrophy",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227299",
+                    "disclosureName": "Parkinson\u0027s disease",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227853",
+                    "disclosureName": "Seizures",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228058",
+                    "disclosureName": "Stroke",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228265",
+                    "disclosureName": "Transient ischaemic attacks",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227238",
+                    "disclosureName": "Other brain or nerve conditions",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_9",
+            "baseQuestionText": "Psychological or emotional conditions?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 10,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1224775",
+                        "disclosureName": "Anxiety",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225623",
+                        "disclosureName": "Depression",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225045",
+                        "disclosureName": "Bipolar disorder",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227477",
+                        "disclosureName": "Post traumatic stress disorder",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225763",
+                        "disclosureName": "Eating disorder",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227369",
+                        "disclosureName": "Personality disorder",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227476",
+                        "disclosureName": "Post natal depression",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227785",
+                        "disclosureName": "Schizophrenia",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227253",
+                        "disclosureName": "Other psychological or emotional conditions",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224775",
+                    "disclosureName": "Anxiety",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225623",
+                    "disclosureName": "Depression",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225045",
+                    "disclosureName": "Bipolar disorder",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227477",
+                    "disclosureName": "Post traumatic stress disorder",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225763",
+                    "disclosureName": "Eating disorder",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227369",
+                    "disclosureName": "Personality disorder",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227476",
+                    "disclosureName": "Post natal depression",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227785",
+                    "disclosureName": "Schizophrenia",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227253",
+                    "disclosureName": "Other psychological or emotional conditions",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_10",
+            "baseQuestionText": "Headaches or migraines that lasted more than 7 days?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "LINKED_DISCLOSURE",
+            "position": 11,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1226179",
+                        "disclosureName": "Headaches or Migraines",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226179",
+                    "disclosureName": "Headaches or Migraines",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_BANNER_2",
+            "baseQuestionText": "Your Medical History (cont\u0027d):",
+            "baseQuestionType": "HEADING",
+            "position": 12
+        },
+        "disclosures": [],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_11",
+            "baseQuestionText": "Have you ever suffered from, been diagnosed with or sought medical advice or treatment for any cancer, cysts, growths, tumours or polyps?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 13,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1225102",
+                        "disclosureName": "Breast lump",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225203",
+                        "disclosureName": "Cancer",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225582",
+                        "disclosureName": "Cysts (excluding cysts on the skin)",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226118",
+                        "disclosureName": "Growths",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227464",
+                        "disclosureName": "Polyps",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228330",
+                        "disclosureName": "Tumours",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225102",
+                    "disclosureName": "Breast lump",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225203",
+                    "disclosureName": "Cancer",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225582",
+                    "disclosureName": "Cysts (excluding cysts on the skin)",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226118",
+                    "disclosureName": "Growths",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227464",
+                    "disclosureName": "Polyps",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228330",
+                    "disclosureName": "Tumours",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_12",
+            "baseQuestionText": "Thyroid conditions?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 14,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1226085",
+                        "disclosureName": "Goitre",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226404",
+                        "disclosureName": "Hyperthyroidism",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226442",
+                        "disclosureName": "Hypothyroidism",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228222",
+                        "disclosureName": "Thyroiditis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228220",
+                        "disclosureName": "Thyroid cancer",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228221",
+                        "disclosureName": "Thyroid nodules",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227255",
+                        "disclosureName": "Other thyroid conditions",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226085",
+                    "disclosureName": "Goitre",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226404",
+                    "disclosureName": "Hyperthyroidism",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226442",
+                    "disclosureName": "Hypothyroidism",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228222",
+                    "disclosureName": "Thyroiditis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228220",
+                    "disclosureName": "Thyroid cancer",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228221",
+                    "disclosureName": "Thyroid nodules",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227255",
+                    "disclosureName": "Other thyroid conditions",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_14_MALE",
+            "baseQuestionText": "Male-specific conditions?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 16,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1225064",
+                        "disclosureName": "Blood in urine",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227550",
+                        "disclosureName": "Prostate disorder",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228202",
+                        "disclosureName": "Testicular complaint",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228371",
+                        "disclosureName": "Urinary tract infection",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227257",
+                        "disclosureName": "Other urinary conditions",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225064",
+                    "disclosureName": "Blood in urine",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227550",
+                    "disclosureName": "Prostate disorder",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228202",
+                    "disclosureName": "Testicular complaint",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228371",
+                    "disclosureName": "Urinary tract infection",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227257",
+                    "disclosureName": "Other urinary conditions",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_BANNER_3",
+            "baseQuestionText": "Your Medical History (cont\u0027d):",
+            "baseQuestionType": "HEADING",
+            "position": 17
+        },
+        "disclosures": [],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_15",
+            "baseQuestionText": "Have you ever suffered from, been diagnosed with or sought medical advice or treatment for any auto-immune diseases?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 18,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1225526",
+                        "disclosureName": "CREST",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227811",
+                        "disclosureName": "Scleroderma",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228132",
+                        "disclosureName": "Systemic Lupus Erythematosus (SLE)",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227246",
+                        "disclosureName": "Other immune conditions",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225526",
+                    "disclosureName": "CREST",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227811",
+                    "disclosureName": "Scleroderma",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228132",
+                    "disclosureName": "Systemic Lupus Erythematosus (SLE)",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227246",
+                    "disclosureName": "Other immune conditions",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_16",
+            "baseQuestionText": "Heart-related conditions?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 19,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1224708",
+                        "disclosureName": "Angina",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225229",
+                        "disclosureName": "Cardiomyopathy",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226187",
+                        "disclosureName": "Heart attack",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226190",
+                        "disclosureName": "Heart birth defect",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226196",
+                        "disclosureName": "Heart murmur",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226524",
+                        "disclosureName": "Irregular heart beat",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227244",
+                        "disclosureName": "Other heart conditions",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224708",
+                    "disclosureName": "Angina",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225229",
+                    "disclosureName": "Cardiomyopathy",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226187",
+                    "disclosureName": "Heart attack",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226190",
+                    "disclosureName": "Heart birth defect",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226196",
+                    "disclosureName": "Heart murmur",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226524",
+                    "disclosureName": "Irregular heart beat",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227244",
+                    "disclosureName": "Other heart conditions",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_17",
+            "baseQuestionText": "Kidney or liver conditions?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 20,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1225393",
+                        "disclosureName": "Cirrhosis of the liver",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225647",
+                        "disclosureName": "Dialysis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225977",
+                        "disclosureName": "Floating kidney",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226313",
+                        "disclosureName": "Horseshoe kidney",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226571",
+                        "disclosureName": "Kidney abscess",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226572",
+                        "disclosureName": "Kidney cyst, growth or tumour",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226573",
+                        "disclosureName": "Kidney donation",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226574",
+                        "disclosureName": "Kidney failure",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226576",
+                        "disclosureName": "Kidney stones",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226581",
+                        "disclosureName": "kidney transplant",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227445",
+                        "disclosureName": "Polycystic kidney disease",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227992",
+                        "disclosureName": "Sponge kidney",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227249",
+                        "disclosureName": "Other kidney conditions",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227250",
+                        "disclosureName": "Other liver conditions",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225393",
+                    "disclosureName": "Cirrhosis of the liver",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225647",
+                    "disclosureName": "Dialysis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225977",
+                    "disclosureName": "Floating kidney",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226313",
+                    "disclosureName": "Horseshoe kidney",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226571",
+                    "disclosureName": "Kidney abscess",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226572",
+                    "disclosureName": "Kidney cyst, growth or tumour",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226573",
+                    "disclosureName": "Kidney donation",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226574",
+                    "disclosureName": "Kidney failure",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226576",
+                    "disclosureName": "Kidney stones",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226581",
+                    "disclosureName": "kidney transplant",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227445",
+                    "disclosureName": "Polycystic kidney disease",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227992",
+                    "disclosureName": "Sponge kidney",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227249",
+                    "disclosureName": "Other kidney conditions",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227250",
+                    "disclosureName": "Other liver conditions",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_18",
+            "baseQuestionText": "Diabetes?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "LINKED_DISCLOSURE",
+            "position": 21,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1225645",
+                        "disclosureName": "Diabetes",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225645",
+                    "disclosureName": "Diabetes",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HEALTH_19",
+            "baseQuestionText": "Blood conditions?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "PICK_LIST",
+            "position": 22,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1226132",
+                        "disclosureName": "Haemochromatosis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226139",
+                        "disclosureName": "Haemophilia",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226522",
+                        "disclosureName": "Iron deficiency anaemia",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226658",
+                        "disclosureName": "Leukaemia",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226660",
+                        "disclosureName": "Lymphoblastic anaemia",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228207",
+                        "disclosureName": "Thalassaemia",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227236",
+                        "disclosureName": "Other blood conditions",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226132",
+                    "disclosureName": "Haemochromatosis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226139",
+                    "disclosureName": "Haemophilia",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226522",
+                    "disclosureName": "Iron deficiency anaemia",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226658",
+                    "disclosureName": "Leukaemia",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226660",
+                    "disclosureName": "Lymphoblastic anaemia",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228207",
+                    "disclosureName": "Thalassaemia",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227236",
+                    "disclosureName": "Other blood conditions",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "FHX_BANNER",
+            "baseQuestionText": "About Your Family History:",
+            "baseQuestionType": "HEADING",
+            "position": 23
+        },
+        "disclosures": [],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "FHX_1",
+            "baseQuestionText": "Has a family member been diagnosed, under age 50, with a major illness/condition? You are only required to disclose family history information pertaining to first-degree blood-related family members - living or deceased (mother, father, siblings).",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "FAMILYHISTORY",
+            "searchType": "PICK_LIST",
+            "position": 24,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1224651",
+                        "disclosureName": "Alzheimer\u0027s Disease",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225204",
+                        "disclosureName": "Cancer",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225233",
+                        "disclosureName": "Cardiomyopathy",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225434",
+                        "disclosureName": "Colorectal cancer",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225609",
+                        "disclosureName": "Dementia",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225646",
+                        "disclosureName": "Diabetes",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1225914",
+                        "disclosureName": "Familial Polyposis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226194",
+                        "disclosureName": "Heart Disease",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226332",
+                        "disclosureName": "Huntington\u0027s disease",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226928",
+                        "disclosureName": "Motor Neurone Disease",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226955",
+                        "disclosureName": "Multiple Sclerosis",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226960",
+                        "disclosureName": "Muscular Dystrophy",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227245",
+                        "disclosureName": "Other hereditary diseases",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227303",
+                        "disclosureName": "Parkinson\u0027s Disease",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227446",
+                        "disclosureName": "Polycystic Kidney Disease",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228059",
+                        "disclosureName": "Stroke",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1227061",
+                        "disclosureName": "None of the above",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224651",
+                    "disclosureName": "Alzheimer\u0027s Disease",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225204",
+                    "disclosureName": "Cancer",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225233",
+                    "disclosureName": "Cardiomyopathy",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225434",
+                    "disclosureName": "Colorectal cancer",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225609",
+                    "disclosureName": "Dementia",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225646",
+                    "disclosureName": "Diabetes",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225914",
+                    "disclosureName": "Familial Polyposis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226194",
+                    "disclosureName": "Heart Disease",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226332",
+                    "disclosureName": "Huntington\u0027s disease",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226928",
+                    "disclosureName": "Motor Neurone Disease",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226955",
+                    "disclosureName": "Multiple Sclerosis",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226960",
+                    "disclosureName": "Muscular Dystrophy",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227245",
+                    "disclosureName": "Other hereditary diseases",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227303",
+                    "disclosureName": "Parkinson\u0027s Disease",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227446",
+                    "disclosureName": "Polycystic Kidney Disease",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228059",
+                    "disclosureName": "Stroke",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1227061",
+                    "disclosureName": "None of the above",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "LIFESTYLE_BANNER",
+            "baseQuestionText": "About Your Lifestyle:",
+            "baseQuestionType": "HEADING",
+            "position": 25
+        },
+        "disclosures": [],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "TRAVEL_1",
+            "baseQuestionText": "Do you have firm plans to travel or reside in another country other than New Zealand, America, Canada, the United Kingdom or in Europe?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "TRAVEL",
+            "children": {
+                "baseQuestionId": ["TRAVEL_2"]
+            },
+            "searchType": "NONE",
+            "position": 26
+        },
+        "disclosures": [],
+        "children": [
+            {
+                "answer": "EMPTY",
+                "rawBaseQuestion": {
+                    "baseQuestionId": "TRAVEL_2",
+                    "baseQuestionText": "Do your travel plans include any of the following countries? (Please select all that apply)",
+                    "baseQuestionType": "ENTER_DETAILS",
+                    "categoryId": "TRAVEL",
+                    "parents": {
+                        "baseQuestionId": ["TRAVEL_1"]
+                    },
+                    "searchType": "PICK_LIST",
+                    "position": 27,
+                    "baseQuestionDisclosures": {
+                        "baseQuestionDisclosure": [
+                            {
+                                "disclosureId": "1224583",
+                                "disclosureName": "Afghanistan",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1224623",
+                                "disclosureName": "Algeria",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1224982",
+                                "disclosureName": "Bahrain",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1225182",
+                                "disclosureName": "Burkina Faso",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1225184",
+                                "disclosureName": "Burundi",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1225264",
+                                "disclosureName": "Central African Republic",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1225286",
+                                "disclosureName": "Chad",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1225501",
+                                "disclosureName": "Cote d\u0027Ivoire",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1225612",
+                                "disclosureName": "Democratic Republic of the Congo",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1225781",
+                                "disclosureName": "Egypt",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1225862",
+                                "disclosureName": "Eritrea",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1225877",
+                                "disclosureName": "Ethiopia",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1226121",
+                                "disclosureName": "Guinea",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1226146",
+                                "disclosureName": "Haiti",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1226476",
+                                "disclosureName": "Indonesia",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1226518",
+                                "disclosureName": "Iraq",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1226614",
+                                "disclosureName": "Kyrgyz Republic",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1226629",
+                                "disclosureName": "Lebanon",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1226684",
+                                "disclosureName": "Liberia",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1226687",
+                                "disclosureName": "Libya",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1226771",
+                                "disclosureName": "Madagascar",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1226833",
+                                "disclosureName": "Mauritania",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1227040",
+                                "disclosureName": "Niger",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1227041",
+                                "disclosureName": "Nigeria",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1227268",
+                                "disclosureName": "Pakistan",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1227772",
+                                "disclosureName": "Saudi Arabia",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1227930",
+                                "disclosureName": "Somalia",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1228084",
+                                "disclosureName": "Sudan",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1228126",
+                                "disclosureName": "Syria",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1228522",
+                                "disclosureName": "Yemen",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1228523",
+                                "disclosureName": "Zimbabwe",
+                                "disclosureStatus": "UNDISCLOSED"
+                            },
+                            {
+                                "disclosureId": "1227062",
+                                "disclosureName": "None of the above countries",
+                                "disclosureStatus": "UNDISCLOSED"
+                            }
+                        ]
+                    }
+                },
+                "disclosures": [
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1224583",
+                            "disclosureName": "Afghanistan",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1224623",
+                            "disclosureName": "Algeria",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1224982",
+                            "disclosureName": "Bahrain",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1225182",
+                            "disclosureName": "Burkina Faso",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1225184",
+                            "disclosureName": "Burundi",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1225264",
+                            "disclosureName": "Central African Republic",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1225286",
+                            "disclosureName": "Chad",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1225501",
+                            "disclosureName": "Cote d\u0027Ivoire",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1225612",
+                            "disclosureName": "Democratic Republic of the Congo",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1225781",
+                            "disclosureName": "Egypt",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1225862",
+                            "disclosureName": "Eritrea",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1225877",
+                            "disclosureName": "Ethiopia",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1226121",
+                            "disclosureName": "Guinea",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1226146",
+                            "disclosureName": "Haiti",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1226476",
+                            "disclosureName": "Indonesia",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1226518",
+                            "disclosureName": "Iraq",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1226614",
+                            "disclosureName": "Kyrgyz Republic",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1226629",
+                            "disclosureName": "Lebanon",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1226684",
+                            "disclosureName": "Liberia",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1226687",
+                            "disclosureName": "Libya",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1226771",
+                            "disclosureName": "Madagascar",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1226833",
+                            "disclosureName": "Mauritania",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1227040",
+                            "disclosureName": "Niger",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1227041",
+                            "disclosureName": "Nigeria",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1227268",
+                            "disclosureName": "Pakistan",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1227772",
+                            "disclosureName": "Saudi Arabia",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1227930",
+                            "disclosureName": "Somalia",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1228084",
+                            "disclosureName": "Sudan",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1228126",
+                            "disclosureName": "Syria",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1228522",
+                            "disclosureName": "Yemen",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1228523",
+                            "disclosureName": "Zimbabwe",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    },
+                    {
+                        "baseQuestionDisclosure": {
+                            "disclosureId": "1227062",
+                            "disclosureName": "None of the above countries",
+                            "disclosureStatus": "UNDISCLOSED"
+                        },
+                        "confirmed": false
+                    }
+                ],
+                "children": []
+            }
+        ]
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "OCC_2",
+            "baseQuestionText": "As part of your occupation(s), do you engage in or are you likely to engage in working at heights, working underground or working offshore?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "OCCUPATION",
+            "searchType": "PICK_LIST",
+            "position": 28,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1228493",
+                        "disclosureName": "Working at heights",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228499",
+                        "disclosureName": "Working underground",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228496",
+                        "disclosureName": "Working offshore",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228493",
+                    "disclosureName": "Working at heights",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228499",
+                    "disclosureName": "Working underground",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228496",
+                    "disclosureName": "Working offshore",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "OCC_3",
+            "baseQuestionText": "As part of your occupation(s), do you (or are you likely to) carry a firearm, handle explosives or work in the armed services?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "OCCUPATION",
+            "searchType": "PICK_LIST",
+            "position": 29,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1225244",
+                        "disclosureName": "Carrying a firearm",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226158",
+                        "disclosureName": "Handling explosives",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1228495",
+                        "disclosureName": "Working in the armed services",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225244",
+                    "disclosureName": "Carrying a firearm",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226158",
+                    "disclosureName": "Handling explosives",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1228495",
+                    "disclosureName": "Working in the armed services",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "OCC_9",
+            "baseQuestionText": "Do you engage in, or intend to engage in Diving or Motor racing on land or on water (not already disclosed as part of your occupation)?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "PASTIMES",
+            "searchType": "PICK_LIST",
+            "position": 30,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1225667",
+                        "disclosureName": "Diving",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226929",
+                        "disclosureName": "Motor racing on land or water",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225667",
+                    "disclosureName": "Diving",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226929",
+                    "disclosureName": "Motor racing on land or water",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "OCC_10",
+            "baseQuestionText": "Do you engage in, or intend to engage in Aviation or aerial pursuits (other than as a fare-paying customer, pilot or cabin crew on a commercial airline, e.g. Qantas) or Mountaineering?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "PASTIMES",
+            "searchType": "PICK_LIST",
+            "position": 31,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1224961",
+                        "disclosureName": "Aviation or aerial pursuits",
+                        "disclosureStatus": "UNDISCLOSED"
+                    },
+                    {
+                        "disclosureId": "1226931",
+                        "disclosureName": "Mountaineering",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224961",
+                    "disclosureName": "Aviation or aerial pursuits",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            },
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226931",
+                    "disclosureName": "Mountaineering",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "LIFESTYLE_BANNER_1",
+            "baseQuestionText": "Your Lifestyle (cont\u0027d):",
+            "baseQuestionType": "HEADING",
+            "position": 32
+        },
+        "disclosures": [],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "DRUGS_1",
+            "baseQuestionText": "Have you, within the last 5 years, used any drugs that were not prescribed to you (other than those drugs available over the counter)?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "LINKED_DISCLOSURE",
+            "position": 33,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1225681",
+                        "disclosureName": "Drugs",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1225681",
+                    "disclosureName": "Drugs",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "ALC_1",
+            "baseQuestionText": "Do you drink alcohol?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "LINKED_DISCLOSURE",
+            "position": 34,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1224618",
+                        "disclosureName": "Alcohol consumption",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224618",
+                    "disclosureName": "Alcohol consumption",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "ALC_2",
+            "baseQuestionText": "Have you ever been advised by a health professional to reduce your alcohol consumption?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "LINKED_DISCLOSURE",
+            "position": 35,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1224620",
+                        "disclosureName": "Alcohol treatment",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1224620",
+                    "disclosureName": "Alcohol treatment",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "HIV_1",
+            "baseQuestionText": "Are you in a high-risk category for contracting HIV (Human Immunodeficiency Virus) that causes AIDS (Acquired Immune Deficiency Syndrome)?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "LINKED_DISCLOSURE",
+            "position": 36,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1226303",
+                        "disclosureName": "HIV/AIDS risk",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226303",
+                    "disclosureName": "HIV/AIDS risk",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "OTHER_MED_1",
+            "baseQuestionText": "Other than already disclosed in this application do you presently suffer from any condition, injury or illness which you suspect may require medical advice or treatment in the future?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "MEDICAL",
+            "searchType": "SEARCH",
+            "position": 37
+        },
+        "disclosures": [],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "INS_HIST_BANNER",
+            "baseQuestionText": "About Your Insurance History:",
+            "baseQuestionType": "HEADING",
+            "position": 38
+        },
+        "disclosures": [],
+        "children": []
+    },
+    {
+        "answer": "EMPTY",
+        "rawBaseQuestion": {
+            "baseQuestionId": "INS_HIST_1",
+            "baseQuestionText": "Has an application for Life, Trauma, Income Protection or Disability Insurance on your life ever been declined, deferred or accepted with higher than standard premiums or an exclusion applied on health grounds?",
+            "baseQuestionType": "TRIGGER_ON_YES",
+            "categoryId": "GENERAL",
+            "searchType": "LINKED_DISCLOSURE",
+            "position": 39,
+            "baseQuestionDisclosures": {
+                "baseQuestionDisclosure": [
+                    {
+                        "disclosureId": "1226506",
+                        "disclosureName": "Insurance History",
+                        "disclosureStatus": "UNDISCLOSED"
+                    }
+                ]
+            }
+        },
+        "disclosures": [
+            {
+                "baseQuestionDisclosure": {
+                    "disclosureId": "1226506",
+                    "disclosureName": "Insurance History",
+                    "disclosureStatus": "UNDISCLOSED"
+                },
+                "confirmed": false
+            }
+        ],
+        "children": []
+    }
+]}
