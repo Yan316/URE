@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class UreController {
     @RequestMapping(value = "/home", method=RequestMethod.GET)
-    public String home() {
-        return "home";
+    public String onView() {
+        return "urePage";
     }
 
 }
