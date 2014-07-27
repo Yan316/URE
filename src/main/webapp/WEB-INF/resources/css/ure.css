@@ -45,3 +45,19 @@ body{
     font-size: 16px;
 }
 
+.submit-button {
+    font-size: 16px;
+    border: 1px solid lightgray;
+    background: #e1e1e1;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    text-align: right;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+

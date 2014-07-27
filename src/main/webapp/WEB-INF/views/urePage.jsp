@@ -9,10 +9,12 @@
 <body>
 <div class="container customer-container">
     <h1>URE</h1>
-    <c:forEach var="i" begin="0" end="${fn:length(questions)}">
-    <c:choose>
-    <c:when test='${questions[i].rawBaseQuestion.baseQuestionType eq "HEADING"}'>
-    <c:if test="${i ne 0}">
+
+    <form action="/submit" method="post">
+        <c:forEach var="i" begin="0" end="${fn:length(questions)}">
+        <c:choose>
+        <c:when test='${questions[i].rawBaseQuestion.baseQuestionType eq "HEADING"}'>
+        <c:if test="${i ne 0}">
 </div>
 </div>
 </c:if>
@@ -44,6 +46,10 @@
         </c:forEach>
     </div>
 </div>
+<div >
+    <input class="submit-button" type="submit" value="Submit"/>
+</div>
+</form>
 </div>
 </body>
 </html>

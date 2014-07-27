@@ -19,4 +19,9 @@ public class UreController {
         return new ModelAndView("urePage", model);
     }
 
+    @RequestMapping(value = "/submit", method = RequestMethod.POST)
+    public String onSubmit() {
+        return "success";
+    }
+
 }
