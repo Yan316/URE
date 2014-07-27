@@ -1,0 +1,25 @@
+.radio-button {
+    display: inline-block;
+    border: 1px solid lightgray;
+    background: #e1e1e1;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+}
+
+.question-label {
+    margin-top: 10px;
+}
+
+.header-question {
+    text-align: right;
+    color: #cc0000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.question-text {
+    font-size: 16px;
+}
