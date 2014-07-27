@@ -1,3 +1,14 @@
+body{
+    background-color: #ededed;
+}
+
+.customer-container {
+    border: 1px solid #aaaaaa;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
 .radio-button {
     display: inline-block;
     border: 1px solid lightgray;
@@ -13,6 +24,10 @@
     margin-top: 10px;
 }
 
+.question-input {
+    visibility:hidden;
+}
+
 .header-question {
     text-align: right;
     color: #cc0000;
@@ -20,6 +35,13 @@
     font-weight: bold;
 }
 
+.question-group {
+    border-top: 1px solid #cc0000;
+    padding-top: 20px;
+    margin-top: 10px;
+}
+
 .question-text {
     font-size: 16px;
 }
+
